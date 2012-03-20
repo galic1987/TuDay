@@ -1,0 +1,36 @@
+/* Localized versions of Info.plist keys */
+
+// exceptions
+"LOGIN_EXCEPTION" = "Kann nicht mit bestimmter matrikelNr/password-Kombination einloggen";
+"PARSING_EXCEPTION" = "Kann nicht icalToken parsen";
+"GENERATE_ICAL_EXCEPTION" = "Kann nicht icalToken parsen";
+"UNKNOWN_EXCEPTION" = "Unbekannter Fehler";
+
+"SETTINGS"  = "Einstellungen";
+"CONN_AND_DOWNLOADING" = "Verbinde zur TU Wien, bitte warten...";
+
+"CONN_LOGGED_PARSING_TISS" = "Tiss-Kalender Anzahl der Termine: ";
+
+"CONN_LOGGED_PARSING_TUWEL" = "Tuwel-Kalender Anzahl der Termine: ";
+
+"ERROR" = "Fehler";
+"OK"    =  "OK";
+"TISS_IMP" = "TISS Terminen importiert:";
+"TUWEL_IMP" = "TUWEL Terminen importiert:";
+"FINISHED"  = "Zusammenfassung:";
+
+"INCOMING" = "Eingehenden";
+"CALENDAR" = "Heute Kalender";
+"DISSCUSS" = "Diskussion";
+"DISSCUSS_TEXT" = "Zeige den Thread für diese Veranstaltung";
+
+"NO_CLASSROOM" = "Kein Hörsall-pdf";
+"NO_CLASSROOM_TEXT" = "Kein Hörsall-pdf verfügbar";
+"DISP_CLASSROOM" = "Zeige Hörsall Lage";
+
+"TEXT_WRITE" = "Schreiben sie einen Post hier";
+"ADD_POST" = "Neuen Post hinzufügen";
+"PASTDISCUSS" = "Past Diskussion";
+
+"STATUS" = "Status";
+"FOOD"  = "Essen";

@@ -1,0 +1,36 @@
+/* Localized versions of Info.plist keys */
+
+// exceptions
+"LOGIN_EXCEPTION" = "Unable to login with given studenId/password combination";
+"PARSING_EXCEPTION" = "Unable to extract ical Token";
+"GENERATE_ICAL_EXCEPTION" = "Unable to extract ical Token";
+"UNKNOWN_EXCEPTION" = "Unknown exception";
+
+"SETTINGS"  = "Settings";
+"CONN_AND_DOWNLOADING" = "Connecting to TU Wien and downloading data, please wait...";
+
+"CONN_LOGGED_PARSING_TISS" = "Parsing data from tiss calendar, number of events parsed: ";
+
+"CONN_LOGGED_PARSING_TUWEL" = "Parsing data from tuwel calendar, number of events parsed: ";
+
+"ERROR" = "Error";
+"OK"    =  "OK";
+"TISS_IMP" = "TISS events imported:";
+"TUWEL_IMP" = "TUWEL events imported:";
+"FINISHED"  = "Finished summary";
+
+"INCOMING" = "Incoming";
+"CALENDAR" = "Today Calendar";
+"DISSCUSS" = "Disscuss";
+"DISSCUSS_TEXT" = "Display thread for this event";
+
+"NO_CLASSROOM" = "No classroom pdf";
+"NO_CLASSROOM_TEXT" = "No classroom availible";
+"DISP_CLASSROOM" = "Display classroom location";
+
+"TEXT_WRITE" = "Write your post here";
+"ADD_POST" = "Add new";
+"PASTDISCUSS" = "Past disscuss";
+
+"STATUS" = "Status";
+"FOOD"  = "Food";
